@@ -1,0 +1,110 @@
+/*
+GENERAL
+*/
+body {
+	background: url("../img/sunset.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+	color: #fff;
+}
+
+a {
+	text-decoration: underline;
+	color: #FFF;
+}
+
+a:hover {
+	color: #DDD;
+}
+
+img {
+	max-width: 100%;
+}
+
+#wrapper h1 {
+	text-align: center;
+	font-size: 3em;
+} 
+
+#wrapper h4, h3 {
+	text-align: center;
+}
+
+.profile-photo {
+	display: block;
+	max-width: 150px;
+	margin: 30px auto;
+	border-radius: 100%;
+	border: 3px solid #FFF;
+}
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #CCC;
+}
+
+footer a {
+	color: #FFF;
+}
+
+footer a:hover {
+	color: #DDD;
+}
+
+.social-icon {
+  margin: 0 5px;
+}
+
+a.lattes, a.twitter, a.skype, a.linkedin, a.googleplus, a.apecof {
+  background-repeat:no-repeat;
+  width:64px;
+  height:64px;
+  display:inline-block;
+  font-size:0;
+}
+
+a.lattes {
+  background-image: url('../img/social-icon-lattes.png');
+}
+
+a.twitter {
+  background-image: url('../img/social-icon-twitter.png');
+}
+
+a.skype {
+  background-image: url('../img/social-icon-skype.png');}
+
+a.linkedin {
+  background-image: url('../img/social-icon-linkedin.png');
+}
+
+a.googleplus {
+  background-image: url('../img/social-icon-googleplus.png');
+}
+
+a.apecof {
+  background-image: url('../img/social-icon-apecof.png');
+}
+
+a.lattes:hover, a.twitter:hover, a.googleplus:hover, a.apecof:hover {
+  background-position:0 -64px;
+}
+
+a.skype:hover {
+  background-position:0 -62px;
+}
+
+a.linkedin:hover {
+  background-position:0 -62px;
+}
