@@ -2,7 +2,7 @@
 GENERAL
 */
 body {
-	background: url("../img/sunset.jpg") no-repeat center center fixed; 
+	background: url("../img/8.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -34,7 +34,7 @@ img {
 	font-size: 3em;
 } 
 
-#wrapper h4, h3 {
+#wrapper h5, h4, h3 {
 	text-align: center;
 }
 
@@ -50,7 +50,7 @@ footer {
   font-size: 0.75em;
   text-align: center;
   clear: both;
-  padding-top: 50px;
+  padding-top: 20px;
   color: #CCC;
 }
 
