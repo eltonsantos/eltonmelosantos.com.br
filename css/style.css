@@ -97,14 +97,14 @@ a.apecof {
   background-image: url('../img/social-icon-apecof.png');
 }
 
-a.lattes:hover, a.twitter:hover, a.googleplus:hover, a.apecof:hover {
+/* a.lattes:hover, a.twitter:hover, a.googleplus:hover, a.apecof:hover {
   background-position:0 -64px;
-}
+} */
 
 a.skype:hover {
   background-position:0 -62px;
 }
 
-a.linkedin:hover {
+/* a.linkedin:hover {
   background-position:0 -62px;
-}
+} */
